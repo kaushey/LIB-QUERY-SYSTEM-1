@@ -1,0 +1,10 @@
+1|The Alchemist|Paulo Coelho|HarperTorch|1988|978-0062315007|Available|-1|0|0
+2|Sapiens|Yuval Noah Harari|Harvill Secker|2011|978-0062316097|Available|-1|0|0
+3|The Guide|R. K. Narayan|Methuen|1958|978-0143039648|Available|-1|0|0
+4|Train to Pakistan|Khushwant Singh|Chatto & Windus|1956|978-0143065883|Available|-1|0|0
+5|The White Tiger|Aravind Adiga|Atlantic Books|2008|978-1416562603|Available|-1|0|0
+6|Wings of Fire|A. P. J. Abdul Kalam|Universities Press|1999|978-8173711466|Available|-1|0|0
+7|Brave New World|Aldous Huxley|Chatto & Windus|1932|978-0060850524|Available|-1|0|0
+8|The Hobbit|J.R.R. Tolkien|George Allen & Unwin|1937|978-0547928227|Available|-1|0|0
+9|Educated|Tara Westover|Random House|2018|978-0399590504|Available|-1|0|0
+10|Clean Code|Robert C. Martin|Prentice Hall|2008|978-0132350884|Available|-1|0|0

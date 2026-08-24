@@ -1,0 +1,10 @@
+1|Ananya Sharma|Student|student123|0
+2|Rohan Verma|Student|student456|0
+3|Priya Nair|Student|student789|0
+4|Karan Mehta|Student|student321|0
+5|Sneha Iyer|Student|student654|0
+6|Aditya Rao|Student|student987|0
+7|Dr. Neha Kapoor|Faculty|faculty123|0
+8|Dr. Sanjay Gupta|Faculty|faculty456|0
+9|Dr. Meera Joshi|Faculty|faculty789|0
+10|Arjun Malhotra|Librarian|librarian123|0
