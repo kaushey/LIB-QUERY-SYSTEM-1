@@ -83,5 +83,4 @@ LibraTrack/
 - Add a GUI (Qt) or web front end
 - Add unit tests for fine calculation and borrowing rules
 
-## License
-MIT — see [LICENSE](LICENSE).
+
